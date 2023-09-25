@@ -1,0 +1,19 @@
+{
+    "podatki":
+    {
+        "ime": "Kolesarjenje",
+        "znacilnice":
+        {
+            "Nebo" : ["j", "j", "j", "j", "j", "j", "o", "o", "o", "o"],
+            "Temp" : ["h", "h", "t", "h", "h", "t", "t", "t", "t", "t"],
+            "Veter": ["v", "v", "v", "m", "m", "m", "v", "v", "m", "m"]
+        },
+        "razredi":
+        {
+            "Kolo" : ["d", "n", "d", "d", "d", "d", "n", "n", "d", "n"]
+        } 
+    },
+    "koraki": 2,
+    "entropija": 0.47549,
+    "tocnost": 0.80000
+}

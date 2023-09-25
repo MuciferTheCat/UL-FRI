@@ -1,0 +1,21 @@
+PING 192.168.50.1 (192.168.50.1) 56(84) bytes of data.
+64 bytes from 192.168.50.1: icmp_seq=1 ttl=128 time=2.79 ms
+64 bytes from 192.168.50.1: icmp_seq=2 ttl=128 time=2.87 ms
+64 bytes from 192.168.50.1: icmp_seq=3 ttl=128 time=4.12 ms
+64 bytes from 192.168.50.1: icmp_seq=4 ttl=128 time=2.53 ms
+64 bytes from 192.168.50.1: icmp_seq=5 ttl=128 time=2.34 ms
+64 bytes from 192.168.50.1: icmp_seq=6 ttl=128 time=2.29 ms
+64 bytes from 192.168.50.1: icmp_seq=7 ttl=128 time=21.2 ms
+64 bytes from 192.168.50.1: icmp_seq=9 ttl=128 time=424 ms
+64 bytes from 192.168.50.1: icmp_seq=12 ttl=128 time=204 ms
+64 bytes from 192.168.50.1: icmp_seq=13 ttl=128 time=2.87 ms
+64 bytes from 192.168.50.1: icmp_seq=14 ttl=128 time=2.49 ms
+64 bytes from 192.168.50.1: icmp_seq=15 ttl=128 time=2.12 ms
+64 bytes from 192.168.50.1: icmp_seq=16 ttl=128 time=2.61 ms
+64 bytes from 192.168.50.1: icmp_seq=18 ttl=128 time=380 ms
+64 bytes from 192.168.50.1: icmp_seq=19 ttl=128 time=60.2 ms
+64 bytes from 192.168.50.1: icmp_seq=20 ttl=128 time=65.8 ms
+
+--- 192.168.50.1 ping statistics ---
+20 packets transmitted, 16 received, 20% packet loss, time 19100ms
+rtt min/avg/max/mdev = 2.117/73.915/424.213/133.950 ms

@@ -1,0 +1,15 @@
+[  3] local 192.168.50.1 port 5001 connected with 192.168.50.100 port 59020
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3] 0.0000-30.0116 sec  3.54 MBytes   989 Kbits/sec   0.047 ms  153/ 2678 (5.7%)
+[  4] local 192.168.50.1 port 5001 connected with 192.168.50.100 port 59026
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  4] 0.0000-29.9334 sec  3.60 MBytes  1.01 Mbits/sec   1.024 ms  107/ 2678 (4%)
+[  3] local 192.168.50.1 port 5001 connected with 192.168.50.100 port 50755
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3] 0.0000-30.0113 sec  3.52 MBytes   983 Kbits/sec   0.198 ms  170/ 2678 (6.3%)
+[  4] local 192.168.50.1 port 5001 connected with 192.168.50.100 port 51405
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  4] 0.0000-30.0108 sec  3.53 MBytes   986 Kbits/sec   0.139 ms  162/ 2678 (6%)
+[  3] local 192.168.50.1 port 5001 connected with 192.168.50.100 port 64006
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3] 0.0000-29.6757 sec  3.46 MBytes   979 Kbits/sec   0.152 ms  207/ 2678 (7.7%)

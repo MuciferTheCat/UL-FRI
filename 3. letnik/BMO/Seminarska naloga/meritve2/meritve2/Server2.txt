@@ -1,0 +1,32 @@
+[  3] local 10.3.141.1 port 5001 connected with 10.3.141.84 port 59731
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3] 0.0000-30.0118 sec  3.75 MBytes  1.05 Mbits/sec   1.954 ms    0/ 2678 (0%)
+[  4] local 10.3.141.1 port 5001 connected with 10.3.141.84 port 59732
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  4] 0.0000-29.6249 sec  3.75 MBytes  1.06 Mbits/sec   0.588 ms    0/ 2678 (0%)
+[  3] local 10.3.141.1 port 5001 connected with 10.3.141.84 port 59734
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3] 0.0000-29.9905 sec  3.64 MBytes  1.02 Mbits/sec   1.686 ms   80/ 2678 (3%)
+[  4] local 10.3.141.1 port 5001 connected with 10.3.141.84 port 64905
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  4] 0.0000-30.0776 sec  3.64 MBytes  1.02 Mbits/sec  18.773 ms   78/ 2678 (2.9%)
+[  4] WARNING: ack of last datagram failed.
+[  3] local 10.3.141.1 port 5001 connected with 10.3.141.84 port 60352
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3] 0.0000-30.0270 sec  3.73 MBytes  1.04 Mbits/sec  15.664 ms   16/ 2678 (0.6%)
+[  4] local 10.3.141.1 port 5001 connected with 10.3.141.84 port 60353
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  4] 0.0000-30.0243 sec  3.60 MBytes  1.01 Mbits/sec  14.052 ms  112/ 2678 (4.2%)
+[  3] local 10.3.141.1 port 5001 connected with 10.3.141.84 port 54894
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3] 0.0000-30.1309 sec  3.75 MBytes  1.05 Mbits/sec  18.353 ms    0/ 2678 (0%)
+[  3] WARNING: ack of last datagram failed.
+[  4] local 10.3.141.1 port 5001 connected with 10.3.141.84 port 64093
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  4] 0.0000-29.9533 sec  3.72 MBytes  1.04 Mbits/sec   1.422 ms   25/ 2678 (0.93%)
+[  3] local 10.3.141.1 port 5001 connected with 10.3.141.84 port 62012
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3] 0.0000-30.0066 sec  3.75 MBytes  1.05 Mbits/sec   2.314 ms    0/ 2678 (0%)
+[  4] local 10.3.141.1 port 5001 connected with 10.3.141.84 port 62019
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  4] 0.0000-30.0121 sec  3.75 MBytes  1.05 Mbits/sec   1.094 ms    0/ 2678 (0%)

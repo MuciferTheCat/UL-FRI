@@ -1,0 +1,12 @@
+\babel@toc {slovene}{}\relax 
+\contentsline {section}{\numberline {1}Standard 802.11b}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}TCP protokol na Kali Linux}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}TCP protokol na Raspberry Pi}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}UDP protokol na Kali Linux}{3}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}UDP protokol na Raspberry Pi}{3}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Standard 802.11g}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}TCP protokol na Kali Linux}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}TCP protokol na Raspberry Pi}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}UDP protokol na Kali Linux}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}UDP protokol na Raspberry Pi}{5}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Konfiguracija RaspAP}{6}{section.3}%

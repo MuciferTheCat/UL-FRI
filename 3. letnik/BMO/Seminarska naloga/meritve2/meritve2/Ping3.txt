@@ -1,0 +1,25 @@
+PING 10.3.141.1 (10.3.141.1) 56(84) bytes of data.
+64 bytes from 10.3.141.1: icmp_seq=1 ttl=128 time=2.21 ms
+64 bytes from 10.3.141.1: icmp_seq=2 ttl=128 time=22.2 ms
+64 bytes from 10.3.141.1: icmp_seq=3 ttl=128 time=21.7 ms
+64 bytes from 10.3.141.1: icmp_seq=6 ttl=128 time=308 ms
+64 bytes from 10.3.141.1: icmp_seq=7 ttl=128 time=89.8 ms
+64 bytes from 10.3.141.1: icmp_seq=8 ttl=128 time=4.24 ms
+64 bytes from 10.3.141.1: icmp_seq=9 ttl=128 time=8.54 ms
+64 bytes from 10.3.141.1: icmp_seq=10 ttl=128 time=31.4 ms
+64 bytes from 10.3.141.1: icmp_seq=11 ttl=128 time=2.54 ms
+64 bytes from 10.3.141.1: icmp_seq=12 ttl=128 time=4.11 ms
+64 bytes from 10.3.141.1: icmp_seq=13 ttl=128 time=113 ms
+64 bytes from 10.3.141.1: icmp_seq=15 ttl=128 time=318 ms
+64 bytes from 10.3.141.1: icmp_seq=16 ttl=128 time=6.67 ms
+64 bytes from 10.3.141.1: icmp_seq=17 ttl=128 time=25.8 ms
+64 bytes from 10.3.141.1: icmp_seq=18 ttl=128 time=5.14 ms
+64 bytes from 10.3.141.1: icmp_seq=19 ttl=128 time=4.40 ms
+64 bytes from 10.3.141.1: icmp_seq=20 ttl=128 time=4.44 ms
+64 bytes from 10.3.141.1: icmp_seq=21 ttl=128 time=15.8 ms
+64 bytes from 10.3.141.1: icmp_seq=23 ttl=128 time=132 ms
+64 bytes from 10.3.141.1: icmp_seq=24 ttl=128 time=4.72 ms
+
+--- 10.3.141.1 ping statistics ---
+24 packets transmitted, 20 received, 16.6667% packet loss, time 23110ms
+rtt min/avg/max/mdev = 2.207/56.267/318.291/93.349 ms

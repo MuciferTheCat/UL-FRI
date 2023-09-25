@@ -1,0 +1,113 @@
+
+\documentclass[11pt,a4paper,slovene]{article}
+
+%Uporabljeni paketi
+\usepackage[slovene]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage{fancyhdr}
+\usepackage{caption}
+\captionsetup{font={default,footnotesize}, labelfont=bf, format=hang,indention=.0cm}
+\usepackage{graphicx,epsfig}
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{color}
+\usepackage{url}
+\usepackage{makeidx}
+\usepackage[official]{eurosym}
+
+\usepackage{hyperref}
+\hypersetup{
+   bookmarksnumbered=true,
+   urlbordercolor={0 1 0},
+   linkbordercolor={1 1 1},
+   unicode=true,
+   pdftitle={ Brez\v{z}i\v{c}na in Mobilna Omre\v{z}ja },
+   pdfauthor={Asistent},
+   pdfdisplaydoctitle=true,
+   pdftoolbar=true,
+   pdfmenubar=true,
+   pdfstartview=X Y Z
+}
+
+\urlstyle{same}
+
+\setlength{\parskip}{12pt}
+\setlength\parindent{0pt}
+\setlength\unitlength{1mm}
+
+\begin{document}
+\label{naslov}
+\pdfbookmark[1]{Naslov}{naslov}
+\thispagestyle{empty}
+
+\begin{center}
+\begin{Large}
+Brez\v{z}i\v{c}na in Mobilna Omre\v{z}ja\\
+Študijsko leto 2022/2023\\
+\end{Large}
+
+\vspace*{4cm}
+\begin{LARGE}
+\textbf{3. domača naloga\\}
+\end{LARGE}
+\vspace*{0.5cm}
+
+\begin{Large}
+
+\vspace*{4cm}
+
+Mojca Kompara\\
+Vpisna št. 63200147\\
+
+\vspace*{5cm}
+Ajdovščina, \today
+\end{Large}
+\end{center}
+
+\pagebreak
+\setcounter{page}{1}
+\pagenumbering{arabic}
+
+
+\label{Kazalo}
+\pdfbookmark[1]{Kazalo}{Kazalo}
+\tableofcontents
+\thispagestyle{empty}
+\pagebreak
+
+\section{Postavitev brezžične dostopne točke}
+S pomočjo programa RaspAP sem nastavila Raspberry Pi kot brezžično dostopno točko.
+
+\includegraphics[width=\textwidth]{rsp}
+
+\section{Izvedba napada z de-avtentikacijo}
+Najprej sem wlan0 adapter prestavila v monitor način in se povezala na hotspot z mobilnim telefonom. Nato pa sem izvedla de-avtentikacijo. Oboje sem izvedla z orodjem aireplay-ng.
+
+\includegraphics[width=\textwidth]{commands}
+
+\section{Zajem prometa z Wireshark-om}
+Med izbedbo same de-avtentikacije sem promet zajemala z orodjem Wireshark. Zanimali so me predvsem de-avtentikacijski paketi.
+
+\includegraphics[width=\textwidth]{zajem_paketkov}
+
+\section{Uspešnost napada}
+Napad, ki sem ga izvedli, je bil uspešen, saj je bila povezava med mojim mobilnim telefonom in hotspotom prekinjena. Naprava je dobila zahtevo za prekinitev povezave od hotspot-a, čeprav smo zahtevo poslali mi. Pred takim napadom se lahko zavarujemo s protokolom WPA3.
+
+
+\pagebreak
+\nocite{*}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+

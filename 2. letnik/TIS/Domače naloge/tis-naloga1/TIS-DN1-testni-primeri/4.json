@@ -1,0 +1,102 @@
+{
+    "podatki": {
+        "ime": "cars",
+        "znacilnice": {
+            "color": [
+                "YELLOW",
+                "YELLOW",
+                "YELLOW",
+                "YELLOW",
+                "YELLOW",
+                "YELLOW",
+                "YELLOW",
+                "YELLOW",
+                "PURPLE",
+                "PURPLE",
+                "PURPLE",
+                "PURPLE",
+                "PURPLE",
+                "PURPLE",
+                "PURPLE",
+                "PURPLE"
+            ],
+            "size": [
+                "SMALL",
+                "SMALL",
+                "SMALL",
+                "SMALL",
+                "LARGE",
+                "LARGE",
+                "LARGE",
+                "LARGE",
+                "SMALL",
+                "SMALL",
+                "SMALL",
+                "SMALL",
+                "LARGE",
+                "LARGE",
+                "LARGE",
+                "LARGE"
+            ],
+            "act": [
+                "STRETCH",
+                "STRETCH",
+                "DIP",
+                "DIP",
+                "STRETCH",
+                "STRETCH",
+                "DIP",
+                "DIP",
+                "STRETCH",
+                "STRETCH",
+                "DIP",
+                "DIP",
+                "STRETCH",
+                "STRETCH",
+                "DIP",
+                "DIP"
+            ],
+            "age": [
+                "ADULT",
+                "CHILD",
+                "ADULT",
+                "CHILD",
+                "ADULT",
+                "CHILD",
+                "ADULT",
+                "CHILD",
+                "ADULT",
+                "CHILD",
+                "ADULT",
+                "CHILD",
+                "ADULT",
+                "CHILD",
+                "ADULT",
+                "CHILD"
+            ]
+        },
+        "razredi": {
+            "inflated": [
+                "T",
+                "T",
+                "T",
+                "T",
+                "T",
+                "F",
+                "F",
+                "F",
+                "T",
+                "F",
+                "F",
+                "F",
+                "T",
+                "F",
+                "F",
+                "F"
+            ]
+        }
+    },
+    "koraki": 3,
+    "entropija": 0.375,
+    "tocnost": 0.8125
+}

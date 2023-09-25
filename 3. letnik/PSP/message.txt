@@ -1,0 +1,18 @@
+```bash
+python bbb-player.py -d "https://bbb.garaza.io/playback/presentation/2.0/playback.html?meetingId=f4ef8eb0bd0ab41c76e413a20a6441aa52c5308b-1622106955279" -n "PSP Lectures - exam preparation";
+python bbb-player.py -d "https://bbb.garaza.io/playback/presentation/2.0/playback.html?meetingId=f4ef8eb0bd0ab41c76e413a20a6441aa52c5308b-1621502268598" -n "PSP Lecture 15 - Mobile sensing applications and ethics";
+python bbb-player.py -d "https://bbb.garaza.io/playback/presentation/2.0/playback.html?meetingId=f4ef8eb0bd0ab41c76e413a20a6441aa52c5308b-1620897285330" -n "PSP Lecture 14 - Hybrid Application Development and Cordova";
+python bbb-player.py -d "https://bbb.garaza.io/playback/presentation/2.0/playback.html?meetingId=f4ef8eb0bd0ab41c76e413a20a6441aa52c5308b-1620292537105" -n "PSP Lecture 13 - Embedded systems and Arduino";
+python bbb-player.py -d "https://bbb.garaza.io/playback/presentation/2.0/playback.html?meetingId=f4ef8eb0bd0ab41c76e413a20a6441aa52c5308b-1619687705587" -n "PSP Lecture 12 - Networking";
+python bbb-player.py -d "https://bbb.garaza.io/playback/presentation/2.0/playback.html?meetingId=f4ef8eb0bd0ab41c76e413a20a6441aa52c5308b-1619082160167" -n "PSP Lecture 11 - Android Architecture Components";
+python bbb-player.py -d "https://bbb.garaza.io/playback/presentation/2.0/playback.html?meetingId=f4ef8eb0bd0ab41c76e413a20a6441aa52c5308b-1618478107029" -n "PSP Lecture 10 - Machine Learning";
+python bbb-player.py -d "https://bbb.garaza.io/playback/presentation/2.0/playback.html?meetingId=f4ef8eb0bd0ab41c76e413a20a6441aa52c5308b-1617876006930" -n "PSP Lecture 9 - Mobile Sensing";
+python bbb-player.py -d "https://bbb.garaza.io/playback/presentation/2.0/playback.html?meetingId=f4ef8eb0bd0ab41c76e413a20a6441aa52c5308b-1617268402602" -n "PSP Lecture 8 - Background Processing (Part 2)";
+python bbb-player.py -d "https://bbb.garaza.io/playback/presentation/2.0/playback.html?meetingId=f4ef8eb0bd0ab41c76e413a20a6441aa52c5308b-1616667327949" -n "PSP Lecture 7 - Background Processing (Part 1)";
+python bbb-player.py -d "https://bbb.garaza.io/playback/presentation/2.0/playback.html?meetingId=f4ef8eb0bd0ab41c76e413a20a6441aa52c5308b-1616062455791" -n "PSP Lecture 6 - Storage and Permissions";
+python bbb-player.py -d "https://bbb.garaza.io/playback/presentation/2.0/playback.html?meetingId=f4ef8eb0bd0ab41c76e413a20a6441aa52c5308b-1615457724314" -n "PSP Lecture 5 - UI views and Fragments and View Binding";
+python bbb-player.py -d "https://bbb.garaza.io/playback/presentation/2.0/playback.html?meetingId=f4ef8eb0bd0ab41c76e413a20a6441aa52c5308b-1614852914501" -n "PSP Lecture 4 - Activity and Intent and Lifecycle and UI intro";
+python bbb-player.py -d "https://bbb.garaza.io/playback/presentation/2.0/playback.html?meetingId=f4ef8eb0bd0ab41c76e413a20a6441aa52c5308b-1614248080865" -n "PSP Lecture 3 - Mobile Platform and Android Architecture";
+python bbb-player.py -d "https://bbb.garaza.io/playback/presentation/2.0/playback.html?meetingId=f4ef8eb0bd0ab41c76e413a20a6441aa52c5308b-1613744014155" -n "PSP Lecture 2 - Platform Constraints";
+python bbb-player.py -d "https://bbb.garaza.io/playback/presentation/2.0/playback.html?meetingId=f4ef8eb0bd0ab41c76e413a20a6441aa52c5308b-1613643079509" -n "PSP Lecture 0 and 1 - Course outline. Platforms Overview";
+```

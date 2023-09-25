@@ -1,0 +1,5 @@
+\babel@toc {slovene}{}\relax 
+\contentsline {section}{\numberline {1}Postavitev brezžične dostopne točke}{2}{section.1}%
+\contentsline {section}{\numberline {2}Izvedba napada z de-avtentikacijo}{2}{section.2}%
+\contentsline {section}{\numberline {3}Zajem prometa z Wireshark-om}{3}{section.3}%
+\contentsline {section}{\numberline {4}Uspešnost napada}{4}{section.4}%
